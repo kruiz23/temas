@@ -1,0 +1,15 @@
+body{
+    background-color: #00008b;
+}
+
+.datosClase{
+    text-align: right;
+    padding-right: 30px;;
+}
+p{
+    color: rgb(238, 238, 243);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+
+}
